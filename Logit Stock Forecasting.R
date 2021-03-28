@@ -13,7 +13,7 @@ y <- MSFT$MSFT.Adjusted[dates]
 plot(y)
 plot(diff(y),
      main='Day on Day Difference in MSFT',
-     ylab='Price (USD)')
+     ylab='Change in price (USD)')
 
 # Creating lagged variables and prediction sets
 y <- diff(y)
