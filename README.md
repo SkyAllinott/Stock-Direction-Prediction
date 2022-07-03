@@ -15,7 +15,7 @@ Furthering this assessment, when bootstrapping to obtain a confidence interval, 
 
 ## Discussing Poor Model Power
 The primary reasons for the models poor performance is:
-1. **Complete market hypothesis**: Theory that if anyone was able to accurately model stock prices, this method would be built-in to expectations and its power would be reduced.
+1. **Efficient market hypothesis**: Theory that if anyone was able to accurately model stock prices, this method would be built-in to expectations and lose its predictive power.
 2. **Formulation of the problem as classification**: If I focused instead on predicting stock price, I could use a full ARIMA model or other models to get better results.
 
 ## Improving the Forecast
